@@ -4,6 +4,3 @@ FROM gcr.io/cadvisor/cadvisor-amd64:v0.51.0
 FROM gcr.io/cadvisor/cadvisor-amd64:v0.50.0
 FROM gcr.io/cadvisor/cadvisor-amd64:v0.49.2
 FROM gcr.io/cadvisor/cadvisor-amd64:v0.49.1
-FROM gcr.io/cadvisor/cadvisor-amd64:v0.49.0
-FROM gcr.io/cadvisor/cadvisor-amd64:v0.48.1
-FROM gcr.io/cadvisor/cadvisor-amd64:v0.48.0
