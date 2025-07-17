@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/sig-storage/nginx:1.20.1
+FROM nginx:1.28.0-alpine-slim
